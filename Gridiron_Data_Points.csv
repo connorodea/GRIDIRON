@@ -1,0 +1,6 @@
+offensive_team,defensive_team,_quarter,_clock,score_differential,_drive,drive_play,field_position,_down,_distance,hash_offense,hash_defense,QB_location,number_of_BACKs,number_of_TEs,number_of_WRs,offensive_personnel
+,,01,,,,,,,,,,Gun,0,0,0,0
+,,02,,,,,,,,,,Under,1,1,1,
+,,03,,,,,,,,,,,2,2,2,
+,,04,,,,,,,,,,,3,3,3,
+,,OT,,,,,,,,,,,,4,4,

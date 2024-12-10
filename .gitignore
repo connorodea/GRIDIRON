@@ -1,0 +1,9 @@
+# Add this line if it's not already there
+.env.local
+
+.env
+node_modules/
+venv/
+*.pyc
+__pycache__/
+
